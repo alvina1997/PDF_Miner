@@ -26,5 +26,3 @@ pip install numpy pandas seaborn matplotlib scikit-learn wordcloud nltk spacy tr
 ### Instructions for Use:
 1. Replace `<repository-url>` with the actual URL of your GitHub repository.
 2. Save this content as `README.md` in your project directory before pushing it to GitHub.
-
-This README provides a comprehensive overview of your project, making it easy for others (and yourself) to understand how to use it in the future. If you need any further modifications or additions, feel free to ask!
